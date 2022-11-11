@@ -20,3 +20,4 @@
 
 > I also found that the prosper rating classified loans with high borrower APR as high risk loans. To check that prosper rating classifier was accurate enough, i explored the relationship between prosper Loan status and borrower APR. I discovered that lower borrower APR loans which prosper rating associated as low risk loans are the major constituents of the 'completed' and 'final payment in progress' loan status classes; while the charged off, defaulted and delinquent loan classes have relatively high borrower APR.
 
+_[here](https://github.com/psjhay/prosper_loan_dataset_analysis/blob/main/Exploratory_Analysis.ipynb.json) is the link to my analysis_
